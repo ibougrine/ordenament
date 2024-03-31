@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+label, input, button {
+    margin: 5px;
+}
+
+canvas {
+    display: block;
+    margin-top: 10px;
+}
